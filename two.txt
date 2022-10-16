@@ -1,0 +1,4 @@
+this is two.text file, 
+
+testing for git ignore
+
